@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "消えない",
+  "base_artist": "MIMiNARI",
+  "createdAt": "2026-04-02T13:06:22.782643Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "消えない",
+      "artist": "AKAIKO-EN",
+      "has_synced": true,
+      "path": "select/01_消えない_AKAIKO-EN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "消えない",
+      "artist": "THE BINARY",
+      "has_synced": true,
+      "path": "select/02_消えない_THE_BINARY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "消えない",
+      "artist": "MIMiNARI",
+      "has_synced": false,
+      "path": "select/03_消えない_MIMiNARI.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "消えない",
+      "artist": "赤い公園",
+      "has_synced": true,
+      "path": "select/04_消えない_赤い公園.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "消えない",
+      "artist": "MIMiNARI Feat. 春茶",
+      "has_synced": false,
+      "path": "select/pl_01_消えない_MIMiNARI_Feat._春茶.txt"
+    }
+  ]
+}
